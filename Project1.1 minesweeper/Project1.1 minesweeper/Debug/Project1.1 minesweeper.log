@@ -1,0 +1,17 @@
+﻿  Main.c
+E:\C projects\GitHub\Project1.1 minesweeper\Project1.1 minesweeper\Main.c(81,19): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+E:\C projects\GitHub\Project1.1 minesweeper\Project1.1 minesweeper\Main.c(81,13): warning C4024: 'strcmp': different types for formal and actual parameter 1
+E:\C projects\GitHub\Project1.1 minesweeper\Project1.1 minesweeper\Main.c(81,42): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+E:\C projects\GitHub\Project1.1 minesweeper\Project1.1 minesweeper\Main.c(81,36): warning C4024: 'strcmp': different types for formal and actual parameter 1
+E:\C projects\GitHub\Project1.1 minesweeper\Project1.1 minesweeper\Main.c(82,14): warning C4047: '=': 'bool *' differs in levels of indirection from 'int'
+E:\C projects\GitHub\Project1.1 minesweeper\Project1.1 minesweeper\Main.c(63,7): warning C4101: 'ch': unreferenced local variable
+E:\C projects\GitHub\Project1.1 minesweeper\Project1.1 minesweeper\Main.c(102,6): warning C4101: 'column_input': unreferenced local variable
+E:\C projects\GitHub\Project1.1 minesweeper\Project1.1 minesweeper\Main.c(102,20): warning C4101: 'row_input': unreferenced local variable
+E:\C projects\GitHub\Project1.1 minesweeper\Project1.1 minesweeper\Main.c(227,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\C projects\GitHub\Project1.1 minesweeper\Project1.1 minesweeper\Main.c(232,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\C projects\GitHub\Project1.1 minesweeper\Project1.1 minesweeper\Main.c(205,8): warning C4101: 'token': unreferenced local variable
+E:\C projects\GitHub\Project1.1 minesweeper\Project1.1 minesweeper\Main.c(284,51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\C projects\GitHub\Project1.1 minesweeper\Project1.1 minesweeper\Main.c(287,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\C projects\GitHub\Project1.1 minesweeper\Project1.1 minesweeper\Main.c(290,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\C projects\GitHub\Project1.1 minesweeper\Project1.1 minesweeper\Main.c(333,12): warning C4013: 'time' undefined; assuming extern returning int
+  Project1.1 minesweeper.vcxproj -> E:\C projects\GitHub\Project1.1 minesweeper\Debug\Project1.1 minesweeper.exe
